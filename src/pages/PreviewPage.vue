@@ -55,6 +55,9 @@ const { users } = useUsersStore();
 .user {
   &__header {
     margin-bottom: 60px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
   }
 
   &__children-list {

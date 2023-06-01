@@ -4,12 +4,12 @@ import PreviewPage from '@/pages/PreviewPage.vue';
 
 const routes = [
   {
-    path: '/',
+    path: '/alef/',
     name: 'home',
     component: HomePage
   },
   {
-    path: '/preview',
+    path: '/alef/preview',
     name: 'preview',
     component: PreviewPage
   }
